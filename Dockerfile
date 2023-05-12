@@ -1,1 +1,1 @@
-from kong:3.1
+from we8105/nocalhost-dev-images-golang:1.18
