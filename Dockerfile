@@ -1,1 +1,1 @@
-from we8105/nocalhost-dev-images-golang:1.18
+from python:3.12.0
